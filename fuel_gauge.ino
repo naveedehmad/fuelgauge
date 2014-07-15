@@ -13,6 +13,7 @@ int g2 = 4;
 int g3 = 5;
 int rd = 6;
 
+/* Define initial fuel status */
 int fuelStatus = 0;
 
 int tankFull = 75;
