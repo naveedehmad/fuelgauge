@@ -5,6 +5,7 @@ Fuel Gauge
 @version 0.0.1
 */
 
+/* Define the float switch pin */
 #define FLOAT_SWITCH A0
 
 int g0 = 2;
