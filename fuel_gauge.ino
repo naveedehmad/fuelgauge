@@ -1,5 +1,7 @@
 /*
 Fuel Gauge
+@version: 0.0.1
+
 */
 
 #define FLOAT_SWITCH A0
