@@ -18,9 +18,11 @@ int rd = 6;
 /* Define initial fuel status */
 int fuelStatus = 0;
 
+/* Define tank defaults */
 int tankFull = 75;
 int tankEmpty = 400;
 
+/* Define range values */
 int range0 = 140;
 int range1 = 206;
 int range2 = 272;
@@ -28,6 +30,7 @@ int range3 = 338;
 
 boolean off = false;
 
+/* Setup */
 void setup() {
   pinMode(g0, OUTPUT);
   pinMode(g1, OUTPUT);
