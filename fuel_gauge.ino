@@ -8,6 +8,7 @@ Fuel Gauge
 /* Define the float switch pin */
 #define FLOAT_SWITCH A0
 
+/* Define LED pinouts */
 int g0 = 2;
 int g1 = 3;
 int g2 = 4;
