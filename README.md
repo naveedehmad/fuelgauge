@@ -1,6 +1,6 @@
 # Fuel Gauge
 
-Only for development
+#Only for development
 
 This is the Arduino code used for the fuel gauge. For details please read my article.
 
