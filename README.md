@@ -6,8 +6,4 @@ This is the Arduino code used for the fuel gauge. For details please read my art
 
 [Arduino base Fuel Gauge](http://naveed.roon.io/making-fuel-gauge)
 
-.
-...
-..
-Changes by dev
-Changes by localdev
+more coming
